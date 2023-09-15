@@ -42,5 +42,5 @@ To run the project, follow these steps:
 
 ## Contributors
 
-- Mohamed Iraqi (m.a.iraqi.amen@gmail.com)
-- Youssef Ismail (youssefismail1337@gmail.com)
+- Mohamed Iraqi (m.a.iraqi.amen@gmail.com) (GUI)
+- Youssef Ismail (youssefismail1337@gmail.com) (MiniGame)
