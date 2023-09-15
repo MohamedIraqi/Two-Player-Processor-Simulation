@@ -38,20 +38,9 @@ To run the project, follow these steps:
 
 ## Screenshots
 
-_Insert screenshots of the application's main screen, chat interface, and game interface._
+![Screenshot](Screenshot.jpg)
 
-## Contributing
+## Contributors
 
-Contributions to this project are welcome. If you'd like to contribute, please follow the [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-We would like to thank the Computer Engineering Department at Cairo University for their guidance and support throughout this project.
-
----
-
-**Note**: This README is a template. Please update it with project-specific information and customize it to suit your needs.
+- Mohamed Iraqi (m.a.iraqi.amen@gmail.com)
+- Youssef Ismail (youssefismail1337@gmail.com)

@@ -1,0 +1,6 @@
+tasm GameMa~1.asm
+tasm GamePa~1.asm
+tasm Minigame.asm
+tasm DrawGUI.asm
+tasm #1_TIO~1.asm
+link #1_TIO~1.obj + GameMa~1.obj + GamePa~1.obj + DrawGUI.obj + Minigame.obj ;

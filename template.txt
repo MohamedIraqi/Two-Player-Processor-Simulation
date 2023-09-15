@@ -1,0 +1,17 @@
+include includes.inc
+.model small
+.386
+.stack 300h
+.data
+include Data.inc
+.code
+main proc far
+mov ax,@data        
+mov ds,ax          
+
+
+;your code
+
+hlt                   
+endp
+end main
